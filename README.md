@@ -5,7 +5,7 @@
  <img width='400em' height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=fernandofrantz&layout=compact&theme=tokyonight' />
 </div>
 
-
+<h3>Minhas tecnologias:</h3>
 <div>
   <img height='40px' width='40px' align='center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   -
