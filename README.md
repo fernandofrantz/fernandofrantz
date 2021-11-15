@@ -1,8 +1,8 @@
 <h2>Olá, me chamo Fernando Frantz!</h2>
   
 <div>
- <img height='180em' src='https://github-readme-stats.vercel.app/api?username=fernandofrantz&show_icons=true&theme=dark' />
- <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=fernandofrantz&layout=compact&theme=dark&langs_count=6' />
+ <img height='180em' src='https://github-readme-stats.vercel.app/api?username=fernandofrantz&show_icons=true&theme=tokyonight' />
+ <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=fernandofrantz&layout=compact&theme=tokyonight' />
 </div>
 
 
