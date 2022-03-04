@@ -3,6 +3,7 @@
 <hr />
 
 <div>
+  Tecnologies:
   <div style="display: inline_block"><br>
   <img align="center" alt="teck-Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" alt="teck-Ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
