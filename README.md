@@ -43,7 +43,7 @@
  <img width='400em' height='160em' src='https://github-readme-stats.vercel.app/api?username=fernandofrantz&show_icons=true&theme=tokyonight' />
  <img width='400em' height='160em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=fernandofrantz&layout=compact&theme=tokyonight' />
 </div>
-  
+ 
 <hr />
 
 <div>
