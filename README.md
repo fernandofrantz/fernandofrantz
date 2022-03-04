@@ -1,11 +1,15 @@
 <h2>Hey there, i'm Fernando Frantz! :man_technologist:</h2>
   
+<hr />
+  
 <div  display='inline'>
  <img width='400em' height='160em' src='https://github-readme-stats.vercel.app/api?username=fernandofrantz&show_icons=true&theme=tokyonight' />
  <img width='400em' height='160em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=fernandofrantz&layout=compact&theme=tokyonight' />
 </div>
 
-<h3>Minhas tecnologias:</h3>
+<hr />
+
+<h3>Hard Skills:</h3>
 <div>
   <img height='40px' width='40px' align='center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   -
