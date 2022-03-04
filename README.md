@@ -1,8 +1,6 @@
 <h2>Hey there, i'm Fernando Frantz! :man_technologist:</h2>
   
 <hr />
-  
-
 
 <div>
   <div style="display: inline_block"><br>
@@ -20,19 +18,11 @@
 
 <hr />
   
-  
-  <div  display='inline'>
+<div  display='inline'>
  <img width='400em' height='160em' src='https://github-readme-stats.vercel.app/api?username=fernandofrantz&show_icons=true&theme=tokyonight' />
  <img width='400em' height='160em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=fernandofrantz&layout=compact&theme=tokyonight' />
 </div>
-
   
-  
-<hr />
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-larson-da-silveira/)](https://www.linkedin.com/in/felipe-larson-da-silveira/)
-[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipelarson@gmail.com)](mailto:felipelarson@gmail.com)
-
 <hr />
 
 <h3>Hard Skills:</h3>
