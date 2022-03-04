@@ -1,4 +1,4 @@
-<h2>Olá, me chamo Fernando Frantz!</h2>
+<h2>Hey there, i'm Fernando Frantz! :man_technologist:</h2>
   
 <div  display='inline'>
  <img width='400em' height='160em' src='https://github-readme-stats.vercel.app/api?username=fernandofrantz&show_icons=true&theme=tokyonight' />
