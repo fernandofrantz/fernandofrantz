@@ -25,15 +25,13 @@
     <img src="https://img.shields.io/badge/-OVH%20Cloud-123F6D?style=flat-square&logo=OVH&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Codacy-222F29?style=flat-square&logo=Codacy&logoColor=white"/>
   </p>
+</p>
 <p>
   📣 Contact me ? Find me here:<br/>
   <a href="https://instagram.com/fernando_frantz"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://linkedin.com/in/fernandofrantz"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
-</p>
-
 <img src="http://views.whatilearened.today/views/github/fernandofrantz/views.svg"/>
-<h3>⚡️ Partenaire de vos projets ⚡️</h3><br/>
 <p>
   🧔 I'm <bold>Fernando</bold>. 20 years, a full stack developer looking for new challenges 🚀.<br/>
   💼 I live in <a href="https://www.google.com/maps?q=rio-grande-do-sul">Rio Grande do Sul</a>, in Brazil.<br/>
@@ -41,6 +39,3 @@
   🎥 Je fais de temps en temps des lives sur <a href="https://twitch.tv/mrstandu33">Twitch</a>, vous pourrez me voir développer des projets Open Source. <br/>
   🎓 Mentor sur la plateforme <a href="https://github.com/OpenClassrooms">@OpenClassrooms</a> depuis 4 ans
 </p>
-<p>
-  🔗 Vous souhaitez me contacter ? Alors envoyez-moi un <a href="mailto:contact@daniels-roth-stan.fr?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20...">mail</a>, ou passez par mon <a href="https://daniels-roth-stan.fr">site</a> !
-</p><br/>
