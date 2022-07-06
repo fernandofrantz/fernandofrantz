@@ -1,7 +1,7 @@
 <p display="flex" flex-direction="column">
   <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=fernandofrantz&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
   <p>
-    <p flex-direction="column">
+    <p display="column">
       <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
