@@ -40,7 +40,7 @@
 <p>
   🧔 I'm <bold>Fernando</bold>. 20 years, a full stack developer looking for new challenges 🚀.<br/>
   💼 I live in <a href="https://www.google.com/maps?q=rio-grande-do-sul">Rio Grande do Sul</a>, in Brazil.<br/>
-  💻 Full-Stack developer <bold>T-Shaped</bold><em>(<a href="https://letslearnabout.net/blog/what-it-is-a-t-shaped-developer-and-why-you-should-be-one">?</a>)</em> <bold><a href="https://vuejs.org">Vue.js</a></bold> × <bold><a href="https://laravel.com">Laravel</a></bold>.<br/>
+  💻 Full-Stack developer <bold><a href="https://vuejs.org">React.js</a></bold> × <bold><a href="https://laravel.com">Node.js</a></bold>.<br/>
   🎥 Je fais de temps en temps des lives sur <a href="https://twitch.tv/mrstandu33">Twitch</a>, vous pourrez me voir développer des projets Open Source. <br/>
   🎓 Mentor sur la plateforme <a href="https://github.com/OpenClassrooms">@OpenClassrooms</a> depuis 4 ans
 </p>
