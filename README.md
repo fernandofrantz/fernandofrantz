@@ -25,11 +25,11 @@
     <img src="https://img.shields.io/badge/-OVH%20Cloud-123F6D?style=flat-square&logo=OVH&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Codacy-222F29?style=flat-square&logo=Codacy&logoColor=white"/>
   </p>
-</p>
 <p>
   📣 Contact me ? Find me here:<br/>
   <a href="https://instagram.com/fernando_frantz"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://linkedin.com/in/fernandofrantz"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 </p>
 
 <img src="http://views.whatilearened.today/views/github/fernandofrantz/views.svg"/>
