@@ -1,7 +1,7 @@
 <!-- <h2>Hey there, i'm Fernando Frantz! :man_technologist:</h2>
 
 <p align="center">
-  <img src="https://github.com/fernandofrantz/fernandofrantz/raw/main/assets/github.gif" alt="Hi, I'm Frantz 👋 I'm a 🚀 Brazilian developer 🚀 I ❤️ Happy Hardcore ❤️">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Frantz 👋 I'm a 🚀 Brazilian developer 🚀 I ❤️ Happy Hardcore ❤️">
 </p>
 
 <hr />
